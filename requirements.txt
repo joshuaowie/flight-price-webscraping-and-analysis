@@ -1,0 +1,9 @@
+altair==4.2.0
+plotly
+requests
+pandas
+typing
+streamlit
+chart_studio
+cufflinks
+matplotlib
