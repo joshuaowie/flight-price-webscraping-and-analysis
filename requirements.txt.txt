@@ -1,7 +1,0 @@
-plotly
-requests
-pandas
-typing
-streamlit
-chart_studio
-cufflinks
